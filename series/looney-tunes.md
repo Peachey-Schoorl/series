@@ -1,0 +1,1081 @@
+---
+layout: collection
+---
+
+# Looney Tunes and Merrie Melodies
+
+## Shorts
+
+- 0 Bosko, the Talk-Ink Kid
+- 1 Sinkin' in the Bathtub
+- 2 Congo Jazz
+- 3 Hold Anything
+- 4 The Booze Hangs High
+- 5 Box Car Blues
+- 6 Big Man from the North
+- 7 Ain't Nature Grand!
+- 8 Ups 'n Downs
+- 9 Dumb Patrol
+- 10 Yodeling Yokels
+- 11 Bosko's Holiday
+- 12 The Tree's Knees
+- 13 Lady, Play Your Mandolin!
+- 14 Smile, Darn Ya, Smile!
+- 15 Bosko Shipwrecked
+- 16 One More Time
+- 17 Bosko the Doughboy
+- 18 You Don't Know What You're Doin'!
+- 19 Bosko's Soda Fountain
+- 20 Hittin' the Trail for Hallelujah Land
+- 21 Bosko's Fox Hunt
+- 22 Red-Headed Baby
+- 23 Bosko at the Zoo
+- 24 Pagan Moon
+- 25 Battling Bosko
+- 26 Freddy the Freshman
+- 27 Big-Hearted Bosko
+- 28 Crosby, Columbo, and Vallee
+- 29 Bosko's Party
+- 30 Goopy Geer
+- 31 Bosko and Bruno
+- 32 It's Got Me Again!
+- 33 Moonlight for Two
+- 34 Bosko's Dog Race
+- 35 The Queen Was in the Parlor
+- 36 Bosko at the Beach
+- 37 I Love a Parade
+- 38 Bosko's Store
+- 39 Bosko the Lumberjack
+- 40 You're Too Careless with Your Kisses!
+- 41 Ride Him, Bosko!
+- 42 I Wish I Had Wings
+- 43 Bosko the Drawback
+- 44 A Great Big Bunch of You
+- 45 Bosko's Dizzy Date
+- 46 Three's a Crowd
+- 47 Bosko's Woodland Daze
+- 48 The Shanty Where Santy Claus Lives
+- 49 Bosko in Dutch
+- 50 One Step Ahead of My Shadow
+- 51 Bosko in Person
+- 52 Young and Healthy
+- 53 Bosko the Speed King
+- 54 The Organ Grinder
+- 55 Wake Up the Gypsy in Me
+- 56 Bosko's Knight-Mare
+- 57 I Like Mountain Music
+- 58 Bosko the Sheep-Herder
+- 59 Beau Bosko
+- 60 Shuffle Off to Buffalo
+- 61 Bosko's Mechanical Man
+- 62 The Dish Ran Away with the Spoon
+- 63 Bosko the Musketeer
+- 64 Bosko's Picture Show
+- 65 We're in the Money
+- 66 Buddy's Day Out
+- 67 I've Got to Sing a Torch Song
+- 68 Buddy's Beer Garden
+- 69 Pettin' in the Park
+- 70 Buddy's Show Boat
+- 71 Sittin' on a Backyard Fence
+- 72 Buddy the Gob
+- 73 Honeymoon Hotel
+- 74 Buddy and Towser
+- 75 Buddy's Garage
+- 76 Beauty and the Beast
+- 77 Those Were Wonderful Days
+- 78 Buddy's Trolley Troubles
+- 79 Goin' to Heaven on a Mule
+- 80 Buddy of the Apes
+- 81 How Do I Know It's Sunday
+- 82 Buddy's Bearcats
+- 83 Why Do I Dream Those Dreams
+- 84 The Girl at the Ironing Board
+- 85 The Miller's Daughter
+- 86 Shake Your Powder Puff
+- 87 Buddy the Detective
+- 88 Rhythm in the Bow
+- 89 Buddy the Woodsman
+- 90 Buddy's Circus
+- 91 Those Beautiful Dames
+- 92 Buddy's Adventures
+- 93 Pop Goes Your Heart
+- 94 Viva Buddy
+- 95 Buddy the Dentist
+- 96 Buddy of the Legion
+- 97 Mr. and Mrs. Is the Name
+- 98 Buddy's Theatre
+- 99 Country Boy
+- 100 I Haven't Got a Hat
+- 101 Buddy's Pony Express
+- 102 Buddy in Africa
+- 103 Along Flirtation Walk
+- 104 My Green Fedora
+- 105 Buddy's Lost World
+- 106 Buddy's Bug Hunt
+- 107 Into Your Dance
+- 108 Buddy Steps Out
+- 109 Country Mouse
+- 110 The Merry Old Soul
+- 111 Buddy the Gee Man
+- 112 The Lady in Red
+- 113 A Cartoonist's Nightmare
+- 114 Little Dutch Plate
+- 115 Hollywood Capers
+- 116 Gold Diggers of '49
+- 117 Billboard Frolics
+- 118 Flowers for Madame
+- 119 Plane Dippy
+- 120 I Wanna Play House
+- 121 The Phantom Ship
+- 122 The Cat Came Back
+- 123 Boom Boom
+- 124 Page Miss Glory
+- 125 Alpine Antics
+- 126 The Fire Alarm
+- 127 The Blow Out
+- 128 I'm a Big Shot Now
+- 129 Westward Whoa
+- 130 Let It Be Me
+- 131 I'd Love to Take Orders from You
+- 132 Fish Tales
+- 133 Bingo Crosbyana
+- 134 Shanghaied Shipmates
+- 135 When I Yoo Hoo
+- 136 Porky's Pet
+- 137 I Love to Singa
+- 138 Porky the Rain-Maker
+- 139 Sunday Go to Meetin' Time
+- 140 Porky's Poultry Plant
+- 141 At Your Service Madame
+- 142 Porky's Moving Day
+- 143 Toy Town Hall
+- 144 Milk and Money
+- 145 Boulevardier from the Bronx
+- 146 Don't Look Now
+- 147 Little Beau Porky
+- 148 The Coo-Coo Nut Grove
+- 149 The Village Smithy
+- 150 Porky in the North Woods
+- 151 He Was Her Man
+- 152 Porky the Wrestler
+- 153 Pigs Is Pigs
+- 154 Porky's Road Race
+- 155 Picador Porky
+- 156 I Only Have Eyes For You
+- 157 The Fella with a Fiddle
+- 158 Porky's Romance
+- 159 She Was an Acrobat's Daughter
+- 160 Porky's Duck Hunt
+- 161 Ain't We Got Fun
+- 162 Porky and Gabby
+- 163 Clean Pastures
+- 164 Uncle Tom's Bungalow
+- 165 Porky's Building
+- 166 Streamlined Greta Green
+- 167 Sweet Sioux
+- 168 Porky's Super Service
+- 169 Egghead Rides Again
+- 170 Porky's Badtime Story
+- 171 Plenty of Money and You
+- 172 Porky's Railroad
+- 173 A Sunbonnet Blue
+- 174 Get Rich Quick Porky
+- 175 Speaking of the Weather
+- 176 Porky's Garden
+- 177 Dog Daze
+- 178 I Wanna Be a Sailor
+- 179 Rover's Rival
+- 180 The Lyin' Mouse
+- 181 The Case of the Stuttering Pig
+- 182 Little Red Walking Hood
+- 183 Porky's Double Trouble
+- 184 The Woods Are Full of Cuckoos
+- 185 Porky's Hero Agency
+- 186 September in the Rain
+- 187 Daffy Duck & Egghead
+- 188 Porky's Poppa
+- 189 My Little Buckaroo
+- 190 Porky at the Crocadero
+- 191 Jungle Jitters
+- 192 What Price Porky
+- 193 The Sneezing Weasel
+- 194 Porky's Phoney Express
+- 195 A Star is Hatched
+- 196 Porky's Five & Ten
+- 197 The Penguin Parade
+- 198 Porky's Hare Hunt
+- 199 Now That Summer is Gone
+- 200 Injun Trouble
+- 201 The Isle of Pingo Pongo
+- 202 Porky the Fireman
+- 203 Katnip Kollege
+- 204 Porky's Party
+- 205 Have You Got Any Castles?
+- 206 Love and Curses
+- 207 Cinderella Meets Fella
+- 208 Porky's Spring Planting
+- 209 Porky & Daffy
+- 210 The Major Lied 'Til Dawn
+- 211 Wholly Smoke
+- 212 A-Lad-In Bagdad
+- 213 Cracked Ice
+- 214 A Feud There Was
+- 215 Porky in Wackyland
+- 216 Little Pancho Vanilla
+- 217 Porky's Naughty Nephew
+- 218 Johnny Smith and Poker-Huntas
+- 219 Porky in Egypt
+- 220 You're an Education
+- 221 The Night Watchman
+- 222 The Daffy Doc
+- 223 Daffy Duck in Hollywood
+- 224 Porky the Gob
+- 225 Count Me Out
+- 226 The Mice Will Play
+- 227 The Lone Stranger and Porky
+- 228 Dog Gone Modern
+- 229 It's an Ill Wind
+- 230 Hamateur Night
+- 231 Robin Hood Makes Good
+- 232 Porky's Tire Trouble
+- 233 Gold Rush Daze
+- 234 A Day at the Zoo
+- 235 Porky's Movie Mystery
+- 236 Prest-O Change-O
+- 237 Chicken Jitters
+- 238 Bars and Stripes Forever
+- 239 Daffy Duck and the Dinosaur
+- 240 Porky and Teabiscuit
+- 241 Thugs with Dirty Mugs
+- 242 Kristopher Kolumbus Jr.
+- 243 Naughty but Mice
+- 244 Believe It or Else
+- 245 Polar Pals
+- 246 Hobo Gadget Band
+- 247 Scalp Trouble
+- 248 Old Glory
+- 249 Porky's Picnic
+- 250 Dangerous Dan McFoo
+- 251 Snowman's Land
+- 252 Wise Quacks
+- 253 Hare-um Scare-um
+- 254 Detouring America
+- 255 Little Brother Rat
+- 256 Porky's Hotel
+- 257 Sioux Me
+- 258 Land of the Midnight Fun
+- 259 Jeepers Creepers
+- 260 Naughty Neighbors
+- 261 The Little Lion Hunter
+- 262 The Good Egg
+- 263 Pied Piper Porky
+- 264 Fresh Fish
+- 265 Fagin's Freshman
+- 266 Porky the Giant Killer
+- 267 Sniffles and the Bookworm
+- 268 Screwball Football
+- 269 The Film Fan
+- 270 The Curious Puppy
+- 271 Porky's Last Stand
+- 272 The Early Worm Gets the Bird
+- 273 Africa Squeaks
+- 274 Mighty Hunters
+- 275 Busy Bakers
+- 276 Ali-Baba Bound
+- 277 Elmer's Candid Camera
+- 278 Pilgrim Porky
+- 279 Cross Country Detours
+- 280 Confederate Honey
+- 281 The Bear's Tale
+- 282 Slap-Happy Pappy
+- 283 Porky's Poor Fish
+- 284 The Hardship of Miles Standish
+- 285 Sniffles Takes a Trip
+- 286 You Ought to Be in Pictures
+- 287 A Gander at Mother Goose
+- 288 Tom Thumb in Trouble
+- 289 The Chewin' Bruin
+- 290 Circus Today
+- 291 Little Blabbermouse
+- 292 Porky's Baseball Broadcast
+- 293 The Egg Collector
+- 294 A Wild Hare
+- 295 Ghost Wanted
+- 296 Patient Porky
+- 297 Ceiling Hero
+- 298 Malibu Beach Party
+- 299 Calling Dr. Porky
+- 300 Stage Fright
+- 301 Prehistoric Porky
+- 302 Holiday Highlights
+- 303 Good Night, Elmer
+- 304 The Sour Puss
+- 305 Wacky Wildlife
+- 306 Bedtime for Sniffles
+- 307 Porky's Hired Hand
+- 308 Of Fox and Hounds
+- 309 The Timid Toreador
+- 310 Shop Look & Listen
+- 311 Elmer's Pet Rabbit
+- 312 Porky's Snooze Reel
+- 313 The Fighting 69½th
+- 314 Sniffles Bells the Cat
+- 315 The Haunted Mouse
+- 316 The Crackpot Quail
+- 317 The Cat's Tale
+- 318 Joe Glow, the Firefly
+- 319 Tortoise Beats Hare
+- 320 Porky's Bear Facts
+- 321 Goofy Groceries
+- 322 Toy Trouble
+- 323 Porky's Preview
+- 324 The Trial of Mr. Wolf
+- 325 Porky's Ant
+- 326 Farm Frolics
+- 327 Hollywood Steps Out
+- 328 A Coy Decoy
+- 329 Hiawatha's Rabbit Hunt
+- 330 Porky's Prize Pony
+- 331 The Wacky Worm
+- 332 Meet John Doughboy
+- 333 The Heckling Hare
+- 334 Inki and the Lion
+- 335 Aviation Vacation
+- 336 We, the Animals Squeak!
+- 337 Sport Chumpions
+- 338 The Henpecked Duck
+- 339 Snowtime for Comedy
+- 340 All This and Rabbit Stew
+- 341 Notes to You
+- 342 The Brave Little Bat
+- 343 The Bug Parade
+- 344 Robinson Crusoe, Jr.
+- 345 Rookie Revue
+- 346 Saddle Silly
+- 347 Porky's Midnight Matinee
+- 348 The Cagey Canary
+- 349 Rhapsody in Rivets
+- 350 Wabbit Twouble
+- 351 Porky's Pooch
+- 352 Hop, Skip and a Chump
+- 353 Porky's Pastry Pirates
+- 354 The Bird Came C.O.D.
+- 355 Aloha Hooey
+- 356 Who's Who in the Zoo
+- 357 Porky's Cafe
+- 358 Conrad the Sailor
+- 359 Crazy Cruise
+- 360 The Wabbit Who Came to Supper
+- 361 Saps in Chaps
+- 362 Horton Hatches the Egg
+- 363 Dog Tired
+- 364 Daffy's Southern Exposure
+- 365 The Wacky Wabbit
+- 366 The Draft Horse
+- 367 Lights Fantastic
+- 368 Nutty News
+- 369 Hold the Lion, Please
+- 370 Hobby Horse-Laffs
+- 371 Gopher Goofy
+- 372 Double Chaser
+- 373 Bugs Bunny Gets the Boid
+- 374 Wacky Blackout
+- 375 Foney Fables
+- 376 The Ducktators
+- 377 The Squawkin' Hawk
+- 378 Fresh Hare
+- 379 Eatin' on the Cuff or The Moth Who Came to Dinner
+- 380 Fox Pop
+- 381 The Impatient Patient
+- 382 The Dover Boys at Pimento University or The Rivals of Roquefort Hall
+- 383 The Hep Cat
+- 384 The Sheepish Wolf
+- 385 The Daffy Duckaroo
+- 386 The Hare-Brained Hypnotist
+- 387 A Tale of Two Kitties
+- 388 Ding Dog Daddy
+- 389 My Favorite Duck
+- 390 Case of the Missing Hare
+- 391 Coal Black and de Sebben Dwarfs
+- 392 Confusions of a Nutzy Spy
+- 393 Pigs in a Polka
+- 394 Tortoise Wins by a Hare
+- 395 To Duck or Not to Duck
+- 396 The Fifth-Column Mouse
+- 397 Flop Goes the Weasel
+- 398 Hop and Go
+- 399 Super-Rabbit
+- 400 The Unbearable Bear
+- 401 The Wise Quacking Duck
+- 402 Greetings Bait
+- 403 Tokio Jokio
+- 404 Yankee Doodle Daffy
+- 405 Jack-Wabbit and the Beanstalk
+- 406 The Aristo-Cat
+- 407 Wackiki Wabbit
+- 408 Porky Pig's Feat
+- 409 Tin Pan Alley Cats
+- 410 Scrap Happy Daffy
+- 411 Hiss and Make Up
+- 412 A Corny Concerto
+- 413 Fin'n Catty
+- 414 Falling Hare
+- 415 Inki and the Minah Bird
+- 416 Daffy - The Commando
+- 417 An Itch in Time
+- 418 Puss n' Booty
+- 419 Little Red Riding Rabbit
+- 420 What's Cookin' Doc?
+- 421 Meatless Flyday
+- 422 Tom Turk and Daffy
+- 423 Bugs Bunny and the Three Bears
+- 424 I Got Plenty of Mutton
+- 425 The Weakly Reporter
+- 426 Tick Tock Tuckered
+- 427 Bugs Bunny Nips the Nips
+- 428 Swooner Crooner
+- 429 Russian Rhapsody
+- 430 Duck Soup to Nuts
+- 431 Angel Puss
+- 432 Slightly Daffy
+- 433 Hare Ribbin'
+- 434 Brother Brat
+- 435 Hare Force
+- 436 From Hand to Mouse
+- 437 Birdy and the Beast
+- 438 Buckaroo Bugs
+- 439 Goldilocks and the Jivin' Bears
+- 440 Plane Daffy
+- 441 Lost and Foundling
+- 442 Booby Hatched
+- 443 The Old Grey Hare
+- 444 The Stupid Cupid
+- 445 Stage Door Cartoon
+- 446 Odor-able Kitty
+- 447 Herr Meets Hare
+- 448 Draftee Daffy
+- 449 The Unruly Hare
+- 450 Trap Happy Porky
+- 451 Life with Feathers
+- 452 Behind the Meat-Ball
+- 453 Hare Trigger
+- 454 Ain't That Ducky
+- 455 A Gruesome Twosome
+- 456 Tale of Two Mice
+- 457 Wagon Heels
+- 458 Hare Conditioned
+- 459 Fresh Airedale
+- 460 The Bashful Buzzard
+- 461 Peck Up Your Troubles
+- 462 Hare Tonic
+- 463 Nasty Quacks
+- 464 Book Revue
+- 465 Baseball Bugs
+- 466 Holiday for Shoestrings
+- 467 Quentin Quail
+- 468 Baby Bottleneck
+- 469 Hare Remover
+- 470 Daffy Doodles
+- 471 Hollywood Canine Canteen
+- 472 Hush My Mouse
+- 473 Hair-Raising Hare
+- 474 Kitty Kornered
+- 475 Hollywood Daffy
+- 476 Acrobatty Bunny
+- 477 The Eager Beaver
+- 478 The Great Piggy Bank Robbery
+- 479 Bacall to Arms
+- 480 Of Thee I Sting
+- 481 Walky Talky Hawky
+- 482 Racketeer Rabbit
+- 483 Fair and Worm-er
+- 484 The Big Snooze
+- 485 The Mouse-Merized Cat
+- 486 Mouse Menace
+- 487 Rhapsody Rabbit
+- 488 Roughly Squeaking
+- 489 One Meat Brawl
+- 490 The Goofy Gophers
+- 491 The Gay Anties
+- 492 Scent-imental Over You
+- 493 A Hare Grows in Manhattan
+- 494 The Birth of a Notion
+- 495 Tweetie Pie
+- 496 Rabbit Transit
+- 497 Hobo Bobo
+- 498 Along Came Daffy
+- 499 Inki at the Circus
+- 500 Easter Yeggs
+- 501 Crowing Pains
+- 502 A Pest in the House
+- 503 The Foxy Duckling
+- 504 House Hunting Mice
+- 505 Little Orphan Airedale
+- 506 Doggone Cats
+- 507 Slick Hare
+- 508 Mexican Joyride
+- 509 Catch as Cats Can
+- 510 A Horse Fly Fleas
+- 511 Gorilla My Dreams
+- 512 Two Gophers from Texas
+- 513 A Feather in His Hare
+- 514 What Makes Daffy Duck?
+- 515 What's Brewin', Bruin?
+- 516 Daffy Duck Slept Here
+- 517 A Hick, a Slick, and a Chick
+- 518 Back Alley Oproar
+- 519 I Taw a Putty Tat
+- 520 Rabbit Punch
+- 521 Hop, Look and Listen
+- 522 Nothing But the Tooth
+- 523 Buccaneer Bunny
+- 524 Bone Sweet Bone
+- 525 Bugs Bunny Rides Again
+- 526 The Rattled Rooster
+- 527 The Up-Standing Sitter
+- 528 The Shell Shocked Egg
+- 529 Haredevil Hare
+- 530 You Were Never Duckier
+- 531 Dough Ray Me-ow
+- 532 Hot Cross Bunny
+- 533 The Pest That Came to Dinner
+- 534 Hare Splitter
+- 535 Odor of the Day
+- 536 The Foghorn Leghorn
+- 537 A-Lad-In His Lamp
+- 538 Daffy Dilly
+- 539 Kit for Cat
+- 540 The Stupor Salesman
+- 541 Riff Raffy Daffy
+- 542 My Bunny Lies over the Sea
+- 543 Scaredy Cat
+- 544 Wise Quackers
+- 545 Hare Do
+- 546 Holiday for Drumsticks
+- 547 Awful Orphan
+- 548 Porky Chops
+- 549 Mississippi Hare
+- 550 Paying the Piper
+- 551 Daffy Duck Hunt
+- 552 Rebel Rabbit
+- 553 Mouse Wreckers
+- 554 High Diving Hare
+- 555 The Bee-Deviled Bruin
+- 556 Curtain Razor
+- 557 Bowery Bugs
+- 558 Mouse Mazurka
+- 559 Long-Haired Hare
+- 560 Henhouse Henery
+- 561 Knights Must Fall
+- 562 Bad Ol' Putty Tat
+- 563 The Grey Hounded Hare
+- 564 Often an Orphan
+- 565 The Windblown Hare
+- 566 Dough for the Do-Do
+- 567 Fast and Furry-ous
+- 568 Each Dawn I Crow
+- 569 Frigid Hare
+- 570 Swallow the Leader
+- 571 Bye, Bye Bluebeard
+- 572 For Scent-imental Reasons
+- 573 Hippety Hopper
+- 574 Which Is Witch
+- 575 Bear Feat
+- 576 Rabbit Hood
+- 577 A Ham in a Role
+- 578 Home Tweet Home
+- 579 Hurdy-Gurdy Hare
+- 580 Boobs in the Woods
+- 581 Mutiny on the Bunny
+- 582 The Lion's Busy
+- 583 The Scarlet Pumpernickel
+- 584 Homeless Hare
+- 585 Strife with Father
+- 586 The Hypo-Chondri-Cat
+- 587 Big House Bunny
+- 588 The Leghorn Blows at Midnight
+- 589 His Bitter Half
+- 590 An Egg Scramble
+- 591 What's Up, Doc?
+- 592 All a Bir-r-r-d
+- 593 8 Ball Bunny
+- 594 It's Hummer Time
+- 595 Golden Yeggs
+- 596 Hillbilly Hare
+- 597 Dog Gone South
+- 598 The Ducksters
+- 599 A Fractured Leghorn
+- 600 Bunker Hill Bunny
+- 601 Canary Row
+- 602 Stooge for a Mouse
+- 603 Pop 'im Pop!
+- 604 Bushy Hare
+- 605 Caveman Inki
+- 606 Dog Collared
+- 607 Rabbit of Seville
+- 608 Two's a Crowd
+- 609 Hare We Go
+- 610 A Fox in a Fix
+- 611 Canned Feud
+- 612 Rabbit Every Monday
+- 613 Putty Tat Trouble
+- 614 Corn Plastered
+- 615 Bunny Hugged
+- 616 Scent-imental Romeo
+- 617 A Bone for a Bone
+- 618 The Fair-Haired Hare
+- 619 A Hound for Trouble
+- 620 Early to Bet
+- 621 Rabbit Fire
+- 622 Room and Bird
+- 623 Chow Hound
+- 624 French Rarebit
+- 625 The Wearing of the Grin
+- 626 Leghorn Swoggled
+- 627 His Hare Raising Tale
+- 628 Cheese Chasers
+- 629 Lovelorn Leghorn
+- 630 Tweety's S.O.S.
+- 631 Ballot Box Bunny
+- 632 A Bear for Punishment
+- 633 Sleepy Time Possum
+- 634 Drip-Along Daffy
+- 635 Big Top Bunny
+- 636 Tweet Tweet Tweety
+- 637 The Prize Pest
+- 638 Who's Kitten Who?
+- 639 Operation: Rabbit
+- 640 Feed the Kitty
+- 641 Gift Wrapped
+- 642 Foxy by Proxy
+- 643 Thumb Fun
+- 644 14 Carrot Rabbit
+- 645 Little Beau Pepé
+- 646 Kiddin' The Kitten
+- 647 Water, Water Every Hare
+- 648 Little Red Rodent Hood
+- 649 Sock a Doodle Do
+- 650 Beep, Beep
+- 651 The Hasty Hare
+- 652 Ain't She Tweet
+- 653 The Turn-Tale Wolf
+- 654 Cracked Quack
+- 655 Oily Hare
+- 656 Hoppy-Go-Lucky
+- 657 Going! Going! Gosh!
+- 658 A Bird In A Guilty Cage
+- 659 Mouse-Warming
+- 660 Rabbit Seasoning
+- 661 The Egg-Cited Rooster
+- 662 Tree for Two
+- 663 The Super Snooper
+- 664 Rabbit's Kin
+- 665 Terrier Stricken
+- 666 Fool Coverage
+- 667 Hare Lift
+- 668 Don't Give Up the Sheep
+- 669 Snow Business
+- 670 A Mouse Divided
+- 671 Forward March Hare
+- 672 Kiss Me Cat
+- 673 Duck Amuck
+- 674 Upswept Hare
+- 675 A Peck o' Trouble
+- 676 Fowl Weather
+- 677 Muscle Tussle
+- 678 Southern Fried Rabbit
+- 679 Ant Pasted
+- 680 Much Ado About Nutting
+- 681 There Auto Be a Law
+- 682 Hare Trimmed
+- 683 Tom Tom Tomcat
+- 684 Wild Over You
+- 685 Duck Dodgers in the 24½th Century
+- 686 Bully for Bugs
+- 687 Plop Goes the Weasel
+- 688 Cat-Tails for Two
+- 689 A Street Cat Named Sylvester
+- 690 Zipping Along
+- 691 Lumber Jack-Rabbit
+- 692 Duck! Rabbit, Duck!
+- 693 Easy Peckin's
+- 694 Catty Cornered
+- 695 Of Rice and Hen
+- 696 Cat's A-weigh
+- 697 Robot Rabbit
+- 698 Punch Trunk
+- 699 Dog Pounded
+- 700 Captain Hareblower
+- 701 I Gopher You
+- 702 Feline Frame-Up
+- 703 Wild Wife
+- 704 No Barking
+- 705 Bugs and Thugs
+- 706 The Cats Bah
+- 707 Design for Leaving
+- 708 Bell Hoppy
+- 709 No Parking Hare
+- 710 Dr. Jerkyl's Hide
+- 711 Claws for Alarm
+- 712 Little Boy Boo
+- 713 Devil May Hare
+- 714 Muzzle Tough
+- 715 The Oily American
+- 716 Bewitched Bunny
+- 717 Satan's Waitin'
+- 718 Stop! Look! And Hasten!
+- 719 Yankee Doodle Bugs
+- 720 Gone Batty
+- 721 Goo Goo Goliath
+- 722 By Word of Mouse
+- 723 From A to Z-Z-Z-Z
+- 724 Quack Shot
+- 725 My Little Duckaroo
+- 726 Sheep Ahoy
+- 727 Baby Buggy Bunny
+- 728 Pizzicato Pussycat
+- 729 Feather Dusted
+- 730 Pests for Guests
+- 731 Beanstalk Bunny
+- 732 All Fowled Up
+- 733 Stork Naked
+- 734 Lighthouse Mouse
+- 735 Sahara Hare
+- 736 Sandy Claws
+- 737 The Hole Idea
+- 738 Ready, Set, Zoom!
+- 739 Hare Brush
+- 740 Past Perfumance
+- 741 Tweety's Circus
+- 742 Rabbit Rampage
+- 743 Lumber Jerks
+- 744 This Is a Life?
+- 745 Double or Mutton
+- 746 Jumpin' Jupiter
+- 747 A Kiddies Kitty
+- 748 Hyde and Hare
+- 749 Dime to Retire
+- 750 Speedy Gonzales
+- 751 Knight-mare Hare
+- 752 Two Scent's Worth
+- 753 Red Riding Hoodwinked
+- 754 Roman Legion-Hare
+- 755 Heir-Conditioned
+- 756 Guided Muscle
+- 757 Pappy's Puppy
+- 758 One Froggy Evening
+- 759 Bugs' Bonnets
+- 760 Too Hop To Handle
+- 761 Weasel Stop
+- 762 The High and the Flighty
+- 763 Broom-Stick Bunny
+- 764 Rocket Squad
+- 765 Tweet and Sour
+- 766 Heaven Scent
+- 767 Mixed Master
+- 768 Rabbitson Crusoe
+- 769 Gee Whiz-z-z-z-z-z-z
+- 770 Tree Cornered Tweety
+- 771 The Unexpected Pest
+- 772 Napoleon Bunny-Part
+- 773 Tugboat Granny
+- 774 Stupor Duck
+- 775 Barbary-Coast Bunny
+- 776 Rocket-Bye Baby
+- 777 Half-Fare Hare
+- 778 Raw! Raw! Rooster!
+- 779 The Slap-Hoppy Mouse
+- 780 A Star Is Bored
+- 781 Deduce, You Say!
+- 782 Yankee Dood It
+- 783 Wideo Wabbit
+- 784 There They Go-Go-Go!
+- 785 Two Crows from Tacos
+- 786 The Honey-Mousers
+- 787 To Hare Is Human
+- 788 Three Little Bops
+- 789 Tweet Zoo
+- 790 Scrambled Aches
+- 791 Ali Baba Bunny
+- 792 Go Fly a Kit
+- 793 Tweety and the Beanstalk
+- 794 Bedevilled Rabbit
+- 795 Boyhood Daze
+- 796 Cheese It, the Cat!
+- 797 Fox-Terror
+- 798 Piker's Peak
+- 799 Steal Wool
+- 800 Boston Quackie
+- 801 What's Opera, Doc?
+- 802 Tabasco Road
+- 803 Birds Anonymous
+- 804 Ducking the Devil
+- 805 Bugsy and Mugsy
+- 806 Zoom and Bored
+- 807 Greedy for Tweety
+- 808 Touché and Go
+- 809 Show Biz Bugs
+- 810 Mouse-Taken Identity
+- 811 Gonzales' Tamales
+- 812 Rabbit Romeo
+- 813 Don't Axe Me
+- 814 Tortilla Flaps
+- 815 Hare-Less Wolf
+- 816 A Pizza Tweety Pie
+- 817 Robin Hood Daffy
+- 818 Hare-Way to the Stars
+- 819 Whoa, Be-Gone!
+- 820 A Waggily Tale
+- 821 Feather Bluster
+- 822 Now, Hare This
+- 823 To Itch His Own
+- 824 Dog Tales
+- 825 Knighty Knight Bugs
+- 826 Weasel While You Work
+- 827 A Bird in a Bonnet
+- 828 Hook, Line and Stinker
+- 829 Pre-Hysterical Hare
+- 830 Gopher Broke
+- 831 Hip Hip-Hurry!
+- 832 Cat Feud
+- 833 Baton Bunny
+- 834 Mouse-Placed Kitten
+- 835 China Jones
+- 836 Hare-Abian Nights
+- 837 Trick or Tweet
+- 838 The Mouse That Jack Built
+- 839 Apes of Wrath
+- 840 Hot-Rod and Reel!
+- 841 A Mutt in a Rut
+- 842 Backwoods Bunny
+- 843 Really Scent
+- 844 Mexicali Shmoes
+- 845 Tweet and Lovely
+- 846 Wild and Woolly Hare
+- 847 Cat's Paw
+- 848 Here Today, Gone Tamale
+- 849 Bonanza Bunny
+- 850 A Broken Leghorn
+- 851 Wild About Hurry
+- 852 A Witch's Tangled Hare
+- 853 Unnatural History
+- 854 Tweet Dreams
+- 855 People Are Bunny
+- 856 Fastest with the Mostest
+- 857 West of the Pesos
+- 858 Horse Hare
+- 859 Wild Wild World
+- 860 Goldimouse and the Three Cats
+- 861 Person to Bunny
+- 862 Who Scent You?
+- 863 Hyde and Go Tweet
+- 864 Rabbit's Feat
+- 865 Crockett-Doodle-Do
+- 866 Mouse and Garden
+- 867 Ready, Woolen and Able
+- 868 Mice Follies
+- 869 From Hare to Heir
+- 870 The Dixie Fryer
+- 871 Hopalong Casualty
+- 872 Trip for Tat
+- 873 Dog Gone People
+- 874 High Note
+- 875 Lighter Than Hare
+- 876 Cannery Woe
+- 877 Zip 'N Snort
+- 878 Hoppy Daze
+- 879 The Mouse on 57th Street
+- 880 Strangled Eggs
+- 881 Birds of a Father
+- 882 D' Fightin' Ones
+- 883 The Abominable Snow Rabbit
+- 884 Lickety-Splat
+- 885 A Scent of the Matterhorn
+- 886 The Rebel Without Claws
+- 887 Compressed Hare
+- 888 The Pied Piper of Guadalupe
+- 889 Prince Violent
+- 890 Daffy's Inn Trouble
+- 891 What's My Lion?
+- 892 Beep Prepared
+- 893 The Last Hungry Cat
+- 894 Nelly's Folly
+- 895 Wet Hare
+- 896 A Sheep in the Deep
+- 897 Fish and Slips
+- 898 Quackodile Tears
+- 899 Crows' Feat
+- 900 Mexican Boarders
+- 901 Bill of Hare
+- 902 Zoom at the Top
+- 903 The Slick Chick
+- 904 Louvre Come Back to Me!
+- 905 Honey's Money
+- 906 The Jet Cage
+- 907 Mother Was a Rooster
+- 908 Good Noose
+- 909 Shishkabugs
+- 910 Martian Through Georgia
+- 911 I Was a Teenage Thumb
+- 912 Devil's Feud Cake
+- 913 Fast Buck Duck
+- 914 The Million Hare
+- 915 Mexican Cat Dance
+- 916 Now Hear This
+- 917 Woolen Under Where
+- 918 Hare-Breadth Hurry
+- 919 Banty Raids
+- 920 Chili Weather
+- 921 The Unmentionables
+- 922 Aqua Duck
+- 923 Mad as a Mars Hare
+- 924 Claws in the Lease
+- 925 Transylvania 6-5000
+- 926 To Beep or Not to Beep
+- 927 Dumb Patrol
+- 928 A Message to Gracias
+- 929 Bartholomew Versus the Wheel
+- 930 Freudy Cat
+- 931 Dr. Devil and Mr. Hare
+- 932 Nuts and Volts
+- 933 The Iceman Ducketh
+- 934 War and Pieces
+- 935 Hawaiian Aye Aye
+- 936 False Hare
+- 937 Señorella and the Glass Huarache
+- 938 Pancho's Hideaway
+- 939 Road to Andalay
+- 940 It's Nice to Have a Mouse Around the House
+- 941 Cats and Bruises
+- 942 The Wild Chase
+- 943 Moby Duck
+- 944 Assault and Peppered
+- 945 Well Worn Daffy
+- 946 Suppressed Duck
+- 947 Corn on the Cop
+- 948 Rushing Roulette
+- 949 Run, Run, Sweet Road Runner
+- 950 Tease for Two
+- 951 Tired and Feathered
+- 952 Boulder Wham!
+- 953 Chili Corn Corny
+- 954 Just Plane Beep
+- 955 Hairied and Hurried
+- 956 Go Go Amigo
+- 957 Highway Runnery
+- 958 Chaser on the Rocks
+- 959 The Astroduck
+- 960 Shot and Bothered
+- 961 Out and Out Rout
+- 962 Mucho Locos
+- 963 The Solid Tin Coyote
+- 964 Mexican Mousepiece
+- 965 Clippety Clobbered
+- 966 Daffy Rents
+- 967 A-Haunting We Will Go
+- 968 Snow Excuse
+- 969 A Squeak in the Deep
+- 970 Feather Finger
+- 971 Swing Ding Amigo
+- 972 Sugar and Spies
+- 973 A Taste of Catnip
+- 974 Daffy's Diner
+- 975 Quacker Tracker
+- 976 The Music Mice-Tro
+- 977 The Spy Swatter
+- 978 Speedy Ghost to Town
+- 979 Rodent to Stardom
+- 980 Go Away Stowaway
+- 981 Cool Cat
+- 982 Merlin the Magic Mouse
+- 983 Fiesta Fiasco
+- 984 Hocus Pocus Pow Wow
+- 985 Norman Normal
+- 986 Big Game Haunt
+- 987 Skyscraper Caper
+- 988 Hippydrome Tiger
+- 989 Feud with a Dude
+- 990 See Ya Later Gladiator
+- 991 3 Ring Wing-Ding
+- 992 Flying Circus
+- 993 Chimp and Zee
+- 994 Bunny and Claude (We Rob Carrot Patches)
+- 995 The Great Carrot Train Robbery
+- 996 Fistic Mystic
+- 997 Rabbit Stew and Rabbits Too!
+- 998 Shamrock and Roll
+- 999 Bugged by a Bee
+- 1000 Injun Trouble
+- 1001 The Duxorcist
+- 1002 The Night of the Living Duck
+- 1003 Box-Office Bunny
+- 1004 Chariots of Fur
+- 1005 Carrotblanca
+- 1006 Superior Duck
+- 1007 Pullet Surprise
+- 1008 Coyote Falls
+- 1009 Fur of Flying
+- 1010 Rabid Rider
+- 1011 I Tawt I Taw a Puddy Tat
+- 1012 Daffy's Rhapsody
+- 1013 Flash in the Pain
+- 1014 Another Froggy Evening
+- 1015 From Hare to Eternity
+- 1016 Father of the Bird
+- 1017 Little Go Beep
+- 1018 Duck Dodgers and the Return of the 24½th Century
+- 1019 Invasion of the Bunny Snatchers
+- 1020 (Blooper) Bunny
+- 1021 Bosko and Honey
+- 1022 Daffy Duck for President
+- 1023 Marvin the Martian in the Third Dimension
+- 1024 The Whizzard of Ow
+- 1025 Museum Scream
+- 1026 Hare and Loathing in Las Vegas
+- 1027 Attack of the Drones
+- 1028 Cock-A-Doodle Duel
+- 1029 My Generation G-G-Gap
+- 1030 Bugs Bunny's Christmas Carol
+- 1031 Freeze Frame
+- 1032 Fright Before Christmas
+- 1033 The Yolk's on You
+- 1034 The Chocolate Chase
+- 1035 Daffy Flies North
+- 1036 Portrait of the Artist as a Young Bunny
+- 1037 Spaced Out Bunny
+- 1038 Soup or Sonic
+- 1039 Daffy & Porky in the William Tell Overture
+
+## Looney Tunes television specials
+
+- t1 Daffy Duck and Porky Pig Meet the Groovie Goolies
+- t2 Carnival of the Animals
+- t3 production Chuck Jones Enterprises
+- t4 A Connecticut Rabbit in King Arthur's Court
+- t5 Bugs Bunny's Looney Christmas Tales
+- t6 The Daffy Duck Easter Show
+- t7 Bugs Bunny's Bustin' Out All Over
+- t8 Ounce of Prevention
+- t9 Cartoon All-Stars to the Rescue
+
+## Looney Tunes feature films
+
+### Theatrical releases
+
+- f1 Space Jam
+- f2 Looney Tunes: Back in Action
+
+<!--
+- f3 Space Jam: A New Legacy
+- f4 Coyote vs. Acme
+- f5 Speedy Gonzales
+-->
+
+### Direct-to-video
+
+- v1 Tiny Toon Adventures: How I Spent My Vacation
+- v2 Tweety's High-Flying Adventure
+- v3 Baby Looney Tunes' Eggs-traordinary Adventure
+- v4 Bah, Humduck! A Looney Tunes Christmas
+- v5 Looney Tunes: Rabbits Run
