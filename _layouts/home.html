@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<h1>Series</h1>
+<p>
+  This project contains a list of series that we have watched or read.
+</p>
+<p>
+  This makes it easier to see which items from a series we still need to see.
+</p>
+
+<h2>Available series</h2>
+<p>
+  The following series are available:
+</p>
+
+{% assign entries = site.pages | sort: 'content' %}
+
+<ul>
+  {% for entry in entries %}
+    {% unless entry.url == '/' or entry.url == '/404.html' or entry.url == '/sitemap.xml' or entry.url == '/robots.txt' or entry.url contains "/assets/" %}
+      <li>
+        <a href="{{ entry.url | prepend: site.baseurl }}">
+          {{ entry.content | newline_to_br | split: '<br />'  | first | remove_first: "#" }}
+        </a>
+        <small>
+          ({{ entry.url | remove_first: "/" | split: '/'  | first }})
+        </small>
+      </li>
+    {% endunless %}
+  {% endfor %}
+</ul>
+
+<hr>

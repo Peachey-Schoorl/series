@@ -1,0 +1,31 @@
+/*=======( General Style )====================================================*/
+small {
+    opacity: 0.35;
+}
+
+.markdown-body {
+    box-sizing: border-box;
+    min-width: 200px;
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 45px;
+    position: relative;
+}
+
+.container {
+    position: relative;
+}
+
+/*=======( Collections )======================================================*/
+.total-count {
+    position: absolute;
+    right: 1em;
+    top: 2em;
+}
+
+.have {
+    opacity: 0.35;
+}
+
+
+/********( EOF )***************************************************************/

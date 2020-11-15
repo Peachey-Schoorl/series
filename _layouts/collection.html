@@ -1,0 +1,78 @@
+---
+layout: default
+---
+{% comment %}
+    @FIXME: The logic in this template needs to be moved to a separate file.
+{% endcomment %}
+{% capture cache %}
+
+{% comment %}
+    @FIXME: opening and closing tags should be macro settings
+{% endcomment %}
+
+    {% assign openingTag = '<ul>' %}
+    {% assign closingTag = '</ul>' %}
+
+    {% assign slug = page.url | remove: 'index.html' | split: '/' | last %}</li>
+    {% for data in site.data %}
+        {% if data[0] == slug %}
+          {% assign collection = data[1] %}
+        {% endif %}
+    {% endfor %}
+
+    {% assign lines = content |  newline_to_br |  split: '<br />' %}
+
+    {% assign inCollection = false %}
+{% endcapture %}{% assign cache = nil %}
+
+{% assign collection_count = collection.entries.size %}
+{% assign total_count = -1 %}
+
+{% for line in lines %}{% capture cache %}
+    {% assign compare = line | strip_newlines | strip  %}
+
+    {% if compare == openingTag %}
+        {% assign inCollection = 'true' %}
+        {% assign line2 = line %}
+    {% elsif compare == closingTag %}
+        {% assign inCollection = 'false' %}
+        {% assign line2 = line %}
+    {% elsif inCollection == 'true' %}
+        {% assign parts = line | remove: '<li>' | remove: '</li>' | split: ' ' %}
+
+        {% assign item = parts.first %}
+        {# If `item` is alpha-numeric, `itemNumber` will be 0 #}
+        {% assign itemNumber = item | plus: 0 %}
+
+
+        {% if collection.entries contains item %}
+            {# alpha-numeric #}
+            {% assign have = true %}
+        {% elsif collection.entries contains itemNumber and itemNumber != 0 %}
+            {# numeric non-zero #}
+            {% assign have = true %}
+        {% elsif collection.entries contains itemNumber and item == '0' %}
+            {# numeric zero #}
+            {% assign have = true %}
+        {%  else %}
+            {% assign have = false %}
+        {% endif %}
+
+        {% if have == true  %}
+            {% assign line2 = parts | join: ' ' | prepend: '<li class="have">' | append: '</li>' %}
+        {% else %}
+            {% assign line2 = parts | join: ' ' | prepend: '<li>' | append: '</li>' %}
+        {% endif %}
+
+        {% assign total_count = total_count |  plus : 1 %}
+    {% else %}
+        {% assign line2 = compare %}
+    {% endif %}
+
+{% endcapture %}{% assign cache = nil %}{{ line2 }}
+{% endfor %}
+
+<small class="total-count">
+    {{ collection_count | times: 100 | divided_by: total_count }}%
+    ({{ collection_count }} out of {{ total_count }})
+</small>
